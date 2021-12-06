@@ -14,7 +14,7 @@ classNames = ["no1", "no2", "no3"];
 fields = [no1, no2, no3];
 sentences = [];
 
-let amt = 3;
+let amt = 5;
 
 function generateSentence(){
     sentences = [];
