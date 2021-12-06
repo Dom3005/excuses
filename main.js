@@ -1,14 +1,18 @@
 no1 = ["Sorry I cant come ", "Please forgive my absence ", "This is going to sound crazy but ", "Get this: ",
     "I cant go because ", "I know youre going to hate me but ", "I was minding my own business and boom! ", "I feel terrible but ",
-    "I regretfully cannot attend, ", "This is going to sound like an excuse but ", "ääähm.. ", "I regret to inform you that"];
+    "I regretfully cannot attend, ", "This is going to sound like an excuse but ", "ääähm.. ", "I regret to inform you that",
+    "Im glad ", "Congrats, ", "The ability of mine to attend is hindered as "];
 
 no2 = ["my newphew ", "the ghost of Hitler ", "the Pope ", "my ex ", "a high school marching band ",
     "Dan Rather ", "a sad clown ", "the kid from Air Bud ", "a professional cricket team ", "my Tinder date ",
-    "Mr. Jütten ", "Mr. Moll ", "Mr. Lawson "];
+    "Mr. Jütten ", "Mr. Moll ", "Mr. Lawson ", "Bob Ross ", "Mahatma Gandhi ",
+    "a crackhead ", "Michael Reeves", 'a group of "Querdenker" ', "the Deutsche Bahn "];
 
 no3 = ["just shit the bed", "died in front of me", "wont stop telling me knock knock jokes", "is having a nervous breakdown",
     "gave me syphilis", "poured lemonade in my gas tank", "stabbed me", "found my box of human teeth",
-    "stole my bike", "posted my nudes on Instagram", "demanded the binomial formula of me", "burned my home"];
+    "stole my bike", "posted my nudes on Instagram", "demanded the binomial formula of me", "burned my home",
+    "tasered me", "stole my pants", "gave me a lecture about Quantum Physics",
+    "converted me to Islam, habibi", "made me look at their conspiracies"];
 
 classNames = ["no1", "no2", "no3"];
 fields = [no1, no2, no3];
