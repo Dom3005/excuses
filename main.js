@@ -5,7 +5,7 @@ no1 = ["Sorry I cant come ", "Please forgive my absence ", "This is going to sou
 
 no2 = ["my newphew ", "the ghost of Hitler ", "the Pope ", "my ex ", "a high school marching band ",
     "Dan Rather ", "a sad clown ", "the kid from Air Bud ", "a professional cricket team ", "my Tinder date ",
-    "Mr. Jütten ", "Mr. Moll ", "Mr. Lawson ", "Bob Ross ", "Mahatma Gandhi ",, "Danny Devito ",
+    "Mr. Jütten ", "Mr. Moll ", "Mr. Lawson ", "Bob Ross ", "Mahatma Gandhi ", "Danny Devito ",
     "a crackhead ", "Michael Reeves ", 'a group of "Querdenker" ', "the Deutsche Bahn ",
     "God "];
 
