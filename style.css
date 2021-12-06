@@ -30,6 +30,7 @@
     
     overflow: auto;
     white-space: initial;
+    word-wrap: break-word;
 }
 
 #size{
