@@ -1,0 +1,85 @@
+#sentences {
+    width: 90%;
+
+    margin: auto;
+    table-layout: fixed;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.no1{
+    background-color: coral;
+}
+
+.no2{
+    background-color: khaki;
+}
+
+.no3{
+    background-color: cornflowerblue;
+}
+
+.cell{
+    height: 5vh;
+    width: 100%;
+    padding: 10px 20px;
+
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+#size{
+    width: 50%;
+    transform: translate(0, 25%)
+}
+
+
+
+
+
+#insta{
+    background: url("images/insta.svg");
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    fill: white;
+}
+
+#github{
+    background: url("images/github.svg");
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    fill: white;
+}
+
+.navbar {
+    font-size: 0;
+    width: 90%;
+}
+
+.navbar li{
+    font-size: medium;
+    display: inline-flex;
+    background-color: #222;
+    cursor: pointer;
+}
+
+.navbar li:hover{
+    background-color: #333;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    padding: 15px 25px;
+}
+
+.center{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    float: none;
+    padding-inline-start: 0;
+}
