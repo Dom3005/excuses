@@ -21,8 +21,8 @@
 
 .cell{
     height: 5vh;
-    width: 100%;
-    padding: 10px 20px;
+    width: 90%;
+    padding: 10px 10%;
 
     display: flex;
     justify-content: left;
