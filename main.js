@@ -13,7 +13,7 @@ no3 = ["just shit the bed", "died in front of me", "wont stop telling me knock k
     "gave me syphilis", "poured lemonade in my gas tank", "stabbed me", "found my box of human teeth",
     "stole my bike", "posted my nudes on Instagram", "demanded the binomial formula of me", "burned my home",
     "tasered me", "stole my pants", "gave me a lecture about Quantum Physics", "threw eggs at me",
-    "converted me to Islam, habibi", "made me look at their conspiracies", "found my collection of lifesize Danny Devito figurines"];
+    "made me convert to Islam, habibi", "made me look at their conspiracies", "found my collection of lifesize Danny Devito figurines"];
 
 classNames = ["no1", "no2", "no3"];
 fields = [no1, no2, no3];
