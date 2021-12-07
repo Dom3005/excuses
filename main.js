@@ -1,19 +1,22 @@
-no1 = ["Sorry I cant come ", "Please forgive my absence ", "This is going to sound crazy but ", "Get this: ",
-    "I cant go because ", "I know youre going to hate me but ", "I was minding my own business and boom! ", "I feel terrible but ",
-    "I regretfully cannot attend, ", "This is going to sound like an excuse but ", "ääähm.. ", "I regret to inform you that",
-    "Im glad ", "Congrats, ", "The ability of mine to attend is hindered as "];
+no1 = ["Sorry, ich kann nicht,  ", "Bitte vergieb meine Abwesenheit, ", "Das hört sich sicherlich verrückt an, aber ", "Hör her: ",
+    "Ich kann nicht, weil ", "Du wirst mich hassen, aber ", "Kümmere dich um meine eigenen Angelegenheiten und bäm! ", "Ich fühle mich schrecklich, aber ",
+    "Bedauerlicherweise kann ich nicht kommen, ", "Das hört sich jetzt an wie eine Ausrede, aber ", "ääähm.. ", "Es bedauert mich dir mitteilen zu müssen",
+    "Es ist mir unmöglich zu erscheinen, denn ", "Meine Fähigkeit teilzunehmen ist verhindert, weil ", "ääh.. ja.. ", ""];
 
-no2 = ["my newphew ", "the ghost of Hitler ", "the Pope ", "my ex ", "a high school marching band ",
-    "Dan Rather ", "a sad clown ", "the kid from Air Bud ", "a professional cricket team ", "my Tinder date ",
-    "Mr. Jütten ", "Mr. Moll ", "Mr. Lawson ", "Bob Ross ", "Mahatma Gandhi ", "Danny Devito ",
-    "a crackhead ", "Michael Reeves ", 'a group of "Querdenker" ', "the Deutsche Bahn ",
-    "God ", "Obama ", "Nelson Mandela ", "Dustin "];
+no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul-Marschkapelle ",
+    "The Rock ", "ein trauriger Clown ", "so ein komisches Kind ", "ein professionelles Cricketteam ", "mein Tinderdate ",
+    "Herr Jütten ", "Herr Moll ", "Herr Lawson ", "Gott ", "Herr Zimmermann ", "Bob Ross ", "Mahatma Gandhi ", "Danny Devito",
+    "Obama ", "Nelson Mandela's Freiheitsgeist ", "Dustin ", "eine Gruppe Querdenker ", "die Deutsche Bahn ", "Michael Reeves ",
+    "so eine Gruppe Verschwörungsschwurbler ", "Angela Merkel", "Jens Spahn ", "Armin Laschet ", "Herr Voss ", "Fritz Dietmah ",
+    "ein kleines Kind auf dem Schulflur ", "eine Gruppe Kommunisten ", "Putin "];
 
-no3 = ["just shit the bed", "died in front of me", "wont stop telling me knock knock jokes", "is having a nervous breakdown",
-    "gave me syphilis", "poured lemonade in my gas tank", "stabbed me", "found my box of human teeth",
-    "stole my bike", "posted my nudes on Instagram", "demanded the binomial formula of me", "burned my home",
-    "tasered me", "stole my pants", "gave me a lecture about Quantum Physics", "threw eggs at me",
-    "made me convert to Islam, habibi", "made me look at their conspiracies", "found my collection of lifesize Danny Devito figurines"];
+no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören mir Klopf-Klopf Witze zu erzählen", "hat einen mentalen Breakdown",
+    "hat mir Syphilis gegeben", "hat Limo in meinen Tank geschüttet", "hat mich abgestochen", "hat meine Kiste mit menschlichen Zähnen gefunden",
+    "hat mein Fahrrad gestohlen", "hat meine Nudes auf Insta hochgeladen", "hat die Binomische Formel von mir verlangt", "hat mein Haus abgebrannt",
+    "hat mir Creditcard-Scams angedreht", "hat mich getasered", "hat mir eine Vorlesen über Quantenphysik gehalten", "hat Eier auf mich geworfen", 
+    "hat mich zum Islam konvertiert, habibi", "wollte mich von Verschwörungstheorien überzeugen", "hat meine lebensgroßen Pappaufsteller von Herr Zimmermann gefunden",
+    "hat sich eingeschissen", "hat spontan einen Genozid begangen", "hat den dritten Weltkrieg gestartet", "hat mich mit Corona angesteckt",
+    "hat mich gescammt"];
 
 classNames = ["no1", "no2", "no3"];
 fields = [no1, no2, no3];
