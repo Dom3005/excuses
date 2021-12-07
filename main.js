@@ -7,7 +7,7 @@ no2 = ["my newphew ", "the ghost of Hitler ", "the Pope ", "my ex ", "a high sch
     "Dan Rather ", "a sad clown ", "the kid from Air Bud ", "a professional cricket team ", "my Tinder date ",
     "Mr. Jütten ", "Mr. Moll ", "Mr. Lawson ", "Bob Ross ", "Mahatma Gandhi ", "Danny Devito ",
     "a crackhead ", "Michael Reeves ", 'a group of "Querdenker" ', "the Deutsche Bahn ",
-    "God "];
+    "God ", "Obama ", "Nelson Mandela ", "Dustin "];
 
 no3 = ["just shit the bed", "died in front of me", "wont stop telling me knock knock jokes", "is having a nervous breakdown",
     "gave me syphilis", "poured lemonade in my gas tank", "stabbed me", "found my box of human teeth",
