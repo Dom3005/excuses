@@ -8,15 +8,17 @@ no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul
     "Herr Jütten ", "Herr Moll ", "Herr Lawson ", "Gott ", "Herr Zimmermann ", "Bob Ross ", "Mahatma Gandhi ", "Danny Devito",
     "Obama ", "Nelson Mandela's Freiheitsgeist ", "Dustin ", "eine Gruppe Querdenker ", "die Deutsche Bahn ", "Michael Reeves ",
     "so eine Gruppe Verschwörungsschwurbler ", "Angela Merkel", "Jens Spahn ", "Armin Laschet ", "Herr Voss ", "Fritz Dietmah ",
-    "ein kleines Kind auf dem Schulflur ", "eine Gruppe Kommunisten ", "Putin "];
+    "ein kleines Kind auf dem Schulflur ", "eine Gruppe Kommunisten ", "Putin ", "die CIA ", "Frau Krügel",
+    "Julius ", "Justus ", "Goethe ", "Schiller ", "Herr Krüger ", "das Finanzamt ", "der Staat "];
 
 no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören mir Klopf-Klopf Witze zu erzählen", "hat einen mentalen Breakdown",
     "hat mir Syphilis gegeben", "hat Limo in meinen Tank geschüttet", "hat mich abgestochen", "hat meine Kiste mit menschlichen Zähnen gefunden",
     "hat mein Fahrrad gestohlen", "hat meine Nudes auf Insta hochgeladen", "hat die Binomische Formel von mir verlangt", "hat mein Haus abgebrannt",
     "hat mir Creditcard-Scams angedreht", "hat mich getasered", "hat mir eine Vorlesen über Quantenphysik gehalten", "hat Eier auf mich geworfen", 
     "hat mich zum Islam konvertiert, habibi", "wollte mich von Verschwörungstheorien überzeugen", "hat meine lebensgroßen Pappaufsteller von Herr Zimmermann gefunden",
-    "hat sich eingeschissen", "hat spontan einen Genozid begangen", "hat den dritten Weltkrieg gestartet", "hat mich mit Corona angesteckt",
-    "hat mich gescammt"];
+    "hat sich eingeschissen", "hat spontan einen Genozid begangen", "hat den dritten Weltkrieg gestartet", "hat mich mit Corona angesteckt", "hat mich abgezogen", "",
+    "hat mich gescammt", "hat mich mit einem Raketenwerfer abgeschossen", "hat einen Terroranschlag verübt", "hat eine Gedichtsanalyse von mir verlangt",
+    "wollte die UdSSR wiederbeleben"];
 
 classNames = ["no1", "no2", "no3"];
 fields = [no1, no2, no3];
