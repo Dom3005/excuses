@@ -13,7 +13,7 @@ no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul
     "Julius ", "Justus ", "Goethe ", "Schiller ", "Herr Krüger ", "das Finanzamt ", "der Staat ", "Xi Jinping ",
     "Winnie Pooh ", "Frau Waechter ", "Mario ", "Herr Küper ", "Olga ", "Kassim ", "Guy Deutscher ", "Barbara Schöneberger",
     "Attilla Hildmann ", "der Wendler ", "Günther Jauch " , "Friedrich Merz"
-     "das Kikaninchen"];
+     "das Kikaninchen", "Bob der Baumeister ", "Bernd das Brot "];
 
 no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören mir Klopf-Klopf Witze zu erzählen", "hat einen mentalen Breakdown",
     "hat mir Syphilis gegeben", "hat Limo in meinen Tank geschüttet", "hat mich abgestochen", "hat meine Kiste mit menschlichen Zähnen gefunden",
@@ -23,7 +23,8 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "hat sich eingeschissen", "hat spontan einen Genozid begangen", "hat den dritten Weltkrieg gestartet", "hat mich mit Corona angesteckt", "hat mich abgezogen", "",
     "hat mich gescammt", "hat mich mit einem Raketenwerfer abgeschossen", "hat einen Terroranschlag verübt", "hat eine Gedichtsanalyse von mir verlangt",
     "wollte die UdSSR wiederbeleben", "hat mich gewaterboarded", "hat in meinen Tank geschissen", "hat vor meine Tür geschissen", "hat mein Pfand geklaut",
-    "betreibt internationalen Drogenhandel", "hat ein kurzes Nicken verlangt", "begeht Kriegsverbrechen im Kosovo", "hat dafür gesorgt, sass der Papst Al Quaeda beigetragen ist"];
+    "betreibt internationalen Drogenhandel", "hat ein kurzes Nicken verlangt", "begeht Kriegsverbrechen im Kosovo", "hat dafür gesorgt, sass der Papst Al Quaeda beigetragen ist",
+    "ist für zahlreiche Kriegsverbrechen im nahen Osten verantwortlich", "ist zum Super-Saiyajin transformiert", "musste noch kurz Wahlergebnisse fälschen"];
 
 classNames = ["no1", "no2", "no3"];
 fields = [no1, no2, no3];
