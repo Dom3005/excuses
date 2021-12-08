@@ -1,8 +1,8 @@
 no1 = ["Sorry, ich kann nicht, ", "Bitte vergieb meine Abwesenheit, aber ", "Das hört sich sicherlich verrückt an, aber ", "Hör her: ",
     "Ich kann nicht, weil ", "Du wirst mich hassen, aber ", "Ich kümmere mich um meine eigenen Angelegenheiten und bäm! ", "Ich fühle mich schrecklich, aber ",
-    "Bedauerlicherweise kann ich nicht kommen, weil ", "Das hört sich jetzt an wie eine Ausrede, aber ", "ääähm.. ", "Es bedauert mich dir mitteilen zu müssen: ",
+    "Bedauerlicherweise kann ich nicht kommen, weil ", "Das hört sich jetzt an wie eine Ausrede, aber ", "ääähm.. ", "Ich bedaure ihnen mitteilen zu müssen: ",
     "Es ist mir unmöglich zu erscheinen, denn ", "Meine Fähigkeit teilzunehmen ist verhindert, weil ", "ääh.. ja.. ", "",
-    "Entschuldigen sie meine Anwesenheit, allerdings ", "Ich da nichts für, dass ", "Da können sie zwar nichts für, aber "];
+    "Entschuldigen sie meine Anwesenheit, allerdings ", "Ich kann da ja nichts für, doch ", "Da können sie zwar nichts für, aber "];
 
 no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul-Marschkapelle ", "Jerry Maus ", "Bugs Bunny ",
     "The Rock ", "ein trauriger Clown ", "so ein komisches Kind ", "ein professionelles Cricketteam ", "mein Tinderdate ",

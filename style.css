@@ -1,3 +1,8 @@
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
 #sentences {
     width: 90%;
 
@@ -44,6 +49,8 @@
     width: 15vw;
     height: 5vh;
     min-height: 50px;
+
+    font-size: 20px;
 }
 
 
@@ -69,23 +76,35 @@
 .navbar {
     font-size: 0;
     width: 90%;
+    height: 10vh;
+
+    background-color: #222;
 }
 
 .navbar li{
+    height: 100%;
     font-size: medium;
     display: inline-flex;
     background-color: #222;
     cursor: pointer;
+
+    padding: 0 3%;
 }
 
-.navbar li:hover{
+.navbar li:hover :not(#title){
     background-color: #333;
 }
 
 .navbar a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-decoration: none;
     color: white;
     padding: 15px 25px;
+
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .center{

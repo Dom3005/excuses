@@ -8,12 +8,22 @@
 
 <body onload="generateSentence()">
     
-    <center><h1 style="margin-bottom: .5%;">Random Excuses Generator</h1></center>
+    
     <ul class="center navbar hidePrint">
+        <li><a id="title">Ausreden Generator</a></li>
         <li><a href="https://dom3005.github.io/lehrerBingo">Bingo!<br></a></li>
         <li><a id="insta" href="https://www.instagram.com/dominik.grtz/" target="_blank">&nbsp;</a></li>
         <li><a id="github" href="https://github.com/Dom3005/excuses" target="_blank">&nbsp;</a></li>
     </ul>
+    <center>
+        <br>
+        <br>
+        <a id="explaination">Quick tutorial:
+                <br>1. Suche dir die entsprechende Anzahl an Sätzen am Slider aus
+                <br>2. Drücke auf "Add!" um die entsprechende Anzahl hinzuzufügen
+        </a>
+        <br>
+    </center>
 
     <center><input type="range" autocomplete="off" id="size" min="1" max="25" value="5" onChange="sliderChange()"> <a id="sizeText">5</a> <button id="sizeBtn" onClick="generateSentence()">Add!</button></center>
 
