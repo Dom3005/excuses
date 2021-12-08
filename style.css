@@ -25,16 +25,13 @@
     height: 7vh;
     width: 100%;
 
-    display: block;
+    display: flex;
     justify-content: left;
     align-items: center;
 
     overflow: auto;
     white-space: initial;
-    word-wrap: break-word;
-    top: 50%;
-    transform: translate(0, -50%);
-    
+    word-wrap: break-word;  
 }
 
 #size{
