@@ -4,17 +4,19 @@ no1 = ["Sorry, ich kann nicht, ", "Bitte vergieb meine Abwesenheit, aber ", "Das
     "Es ist mir unmöglich zu erscheinen, denn ", "Meine Fähigkeit teilzunehmen ist verhindert, weil ", "ääh.. ja.. ", "",
     "Entschuldigen sie meine Anwesenheit, allerdings ", "Ich da nichts für, dass ", "Da können sie zwar nichts für, aber "];
 
-no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul-Marschkapelle ",
+no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul-Marschkapelle ", "Jerry Maus ", "Bugs Bunny ",
     "The Rock ", "ein trauriger Clown ", "so ein komisches Kind ", "ein professionelles Cricketteam ", "mein Tinderdate ",
     "Herr Jütten ", "Herr Moll ", "Herr Lawson ", "Gott ", "Herr Zimmermann ", "Bob Ross ", "Mahatma Gandhi ", "Danny Devito",
     "Obama ", "Nelson Mandela's Freiheitsgeist ", "Dustin ", "eine Gruppe Querdenker ", "die Deutsche Bahn ", "Michael Reeves ",
     "so eine Gruppe Verschwörungsschwurbler ", "Angela Merkel", "Jens Spahn ", "Armin Laschet ", "Herr Voss ", "Fritz Dietmah ",
-    "ein kleines Kind auf dem Schulflur ", "eine Gruppe Kommunisten ", "Putin ", "die CIA ", "Frau Krügel",
-    "Julius ", "Justus ", "Goethe ", "Schiller ", "Herr Krüger ", "das Finanzamt ", "der Staat ", "Xi Jinping ",
+    "ein kleines Kind auf dem Schulflur ", "eine Gruppe Kommunisten ", "Putin ", "die CIA ", "Frau Krügel", "Kater Tom ",
+    "Julius ", "Justus ", "Goethe ", "Schiller ", "Herr Krüger ", "das Finanzamt ", "der Staat ", "Xi Jinping ", "die Maus ",
     "Winnie Pooh ", "Frau Waechter ", "Mario ", "Herr Küper ", "Olga ", "Kassim ", "Guy Deutscher ", "Barbara Schöneberger",
     "Atilla Hildmann ", "der Wendler ", "Günther Jauch " , "Friedrich Merz", "Herr Deckwirth ", "ein Taliban Kämpfer ",
     "das Kikaninchen", "Bob der Baumeister ", "Bernd das Brot ", "Osama Bin Laden ", "der rote Powerranger ", "die US Army ",
-    "7 komische Zwerge ", "der Gruffallo ", "der Sandmann ", "Familie Feuerstein ", "Ernie von der Sesamstraße ", "Bert von der Sesamstraße "];
+    "7 komische Zwerge ", "der Gruffallo ", "der Sandmann ", "Familie Feuerstein ", "Ernie von der Sesamstraße ", "Bert von der Sesamstraße ",
+    "Papa Schlumpf ", "Schlumpfine , "Peter Lustig ", "Mickry Mouse ", "die Gummibärenbande ", "Lucky Luke ", "Dagobert Duck ",
+    "Inspektor Gadget ", "Mogli ", "Balu ", "Sailor Moon ", "Pikachu ", "der rote Teletubby ", "Feuerwehrmann Sam "];
 
 no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören mir Klopf-Klopf Witze zu erzählen", "hat einen mentalen Breakdown",
     "hat mir Syphilis gegeben", "hat Limo in meinen Tank geschüttet", "hat mich abgestochen", "hat meine Kiste mit menschlichen Zähnen gefunden",
@@ -26,7 +28,7 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "wollte die UdSSR wiederbeleben", "hat mich gewaterboarded", "hat in meinen Tank geschissen", "hat vor meine Tür geschissen", "hat mein Pfand geklaut",
     "betreibt internationalen Drogenhandel", "hat ein kurzes Nicken verlangt", "begeht Kriegsverbrechen im Kosovo", "hat dafür gesorgt, sass der Papst Al Quaeda beigetragen ist",
     "ist für zahlreiche Kriegsverbrechen im nahen Osten verantwortlich", "ist zum Super-Saiyajin transformiert", "musste noch kurz Wahlergebnisse fälschen",
-    "ist zum Islam konvertiert", "hat auf den Bahngleisen meditiert"];
+    "ist zum Islam konvertiert", "hat auf den Bahngleisen meditiert", "hat einen Selbstmordattentat begangen "];
 
 classNames = ["no1", "no2", "no3"];
 fields = [no1, no2, no3];
