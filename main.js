@@ -11,7 +11,7 @@ no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul
     "so eine Gruppe Verschwörungsschwurbler ", "Angela Merkel", "Jens Spahn ", "Armin Laschet ", "Herr Voss ", "Fritz Dietmah ",
     "ein kleines Kind auf dem Schulflur ", "eine Gruppe Kommunisten ", "Putin ", "die CIA ", "Frau Krügel",
     "Julius ", "Justus ", "Goethe ", "Schiller ", "Herr Krüger ", "das Finanzamt ", "der Staat ", "Xi Jinping ",
-    "Winnie Pooh ", "Frau Waechter ", "Mario ", "Herr Küper "];
+    "Winnie Pooh ", "Frau Waechter ", "Mario ", "Herr Küper ", "Olga "];
 
 no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören mir Klopf-Klopf Witze zu erzählen", "hat einen mentalen Breakdown",
     "hat mir Syphilis gegeben", "hat Limo in meinen Tank geschüttet", "hat mich abgestochen", "hat meine Kiste mit menschlichen Zähnen gefunden",
@@ -20,7 +20,7 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "hat mich zum Islam konvertiert, habibi", "wollte mich von Verschwörungstheorien überzeugen", "hat meine lebensgroßen Pappaufsteller von Herr Zimmermann gefunden",
     "hat sich eingeschissen", "hat spontan einen Genozid begangen", "hat den dritten Weltkrieg gestartet", "hat mich mit Corona angesteckt", "hat mich abgezogen", "",
     "hat mich gescammt", "hat mich mit einem Raketenwerfer abgeschossen", "hat einen Terroranschlag verübt", "hat eine Gedichtsanalyse von mir verlangt",
-    "wollte die UdSSR wiederbeleben", "hat mich gewaterboarded", "hat in meinen Tank geschissen", "hat vor meine Tür geschissen"];
+    "wollte die UdSSR wiederbeleben", "hat mich gewaterboarded", "hat in meinen Tank geschissen", "hat vor meine Tür geschissen", "hat mein Pfand geklaut"];
 
 classNames = ["no1", "no2", "no3"];
 fields = [no1, no2, no3];
