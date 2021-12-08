@@ -1,4 +1,4 @@
-no1 = ["Sorry, ich kann nicht", "Bitte vergieb meine Abwesenheit, aber", "Das hört sich sicherlich verrückt an, aber", "Hör her:",
+no1 = ["Sorry, ich kann nicht,", "Bitte vergieb meine Abwesenheit, aber", "Das hört sich sicherlich verrückt an, aber", "Hör her:",
    "Ich kann nicht, weil", "Du wirst mich hassen, aber", "Ich kümmere mich um meine eigenen Angelegenheiten und bäm!", "Ich fühle mich schrecklich, aber",
    "Bedauerlicherweise kann ich nicht kommen, weil", "Das hört sich jetzt an wie eine Ausrede, aber", "ääähm..", "Ich bedaure ihnen mitteilen zu müssen:",
    "Es ist mir unmöglich zu erscheinen, denn", "Meine Fähigkeit teilzunehmen ist verhindert, weil", "ääh.. ja..", "", "Entschuldigen sie die Verspätung, aber",
