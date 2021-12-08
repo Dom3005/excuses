@@ -15,7 +15,7 @@ no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul
     "Atilla Hildmann ", "der Wendler ", "Günther Jauch " , "Friedrich Merz", "Herr Deckwirth ", "ein Taliban Kämpfer ",
     "das Kikaninchen", "Bob der Baumeister ", "Bernd das Brot ", "Osama Bin Laden ", "der rote Powerranger ", "die US Army ",
     "7 komische Zwerge ", "der Gruffallo ", "der Sandmann ", "Familie Feuerstein ", "Ernie von der Sesamstraße ", "Bert von der Sesamstraße ",
-    "Papa Schlumpf ", "Schlumpfine , "Peter Lustig ", "Mickry Mouse ", "die Gummibärenbande ", "Lucky Luke ", "Dagobert Duck ",
+    "Papa Schlumpf ", "Schlumpfine", "Peter Lustig ", "Mickey Mouse ", "die Gummibärenbande ", "Lucky Luke ", "Dagobert Duck ",
     "Inspektor Gadget ", "Mogli ", "Balu ", "Sailor Moon ", "Pikachu ", "der rote Teletubby ", "Feuerwehrmann Sam ", "Benjamin Blümchen ",
     "Marko ", "Biene Maja ", "der Mathemann "];
 
