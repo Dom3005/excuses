@@ -23,7 +23,6 @@
 
 .cell{
     height: 7vh;
-    margin: auto;
     width: 100%;
 
     display: block;
@@ -33,6 +32,9 @@
     overflow: auto;
     white-space: initial;
     word-wrap: break-word;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 #size{
