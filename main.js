@@ -14,7 +14,7 @@ no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul
     "Winnie Pooh ", "Frau Waechter ", "Mario ", "Herr Küper ", "Olga ", "Kassim ", "Guy Deutscher ", "Barbara Schöneberger",
     "Atilla Hildmann ", "der Wendler ", "Günther Jauch " , "Friedrich Merz", "Herr Deckwirth ", "ein Taliban Kämpfer ",
     "das Kikaninchen", "Bob der Baumeister ", "Bernd das Brot ", "Osama Bin Laden ", "der rote Powerranger ", "die US Army ",
-    "7 komische Zwerge ", "der Gruffallo "];
+    "7 komische Zwerge ", "der Gruffallo ", "der Sandmann ", "Familie Feuerstein ", "Ernie von der Sesamstraße ", "Bert von der Sesamstraße "];
 
 no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören mir Klopf-Klopf Witze zu erzählen", "hat einen mentalen Breakdown",
     "hat mir Syphilis gegeben", "hat Limo in meinen Tank geschüttet", "hat mich abgestochen", "hat meine Kiste mit menschlichen Zähnen gefunden",
