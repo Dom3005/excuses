@@ -1,7 +1,8 @@
 no1 = ["Sorry, ich kann nicht,  ", "Bitte vergieb meine Abwesenheit, ", "Das hört sich sicherlich verrückt an, aber ", "Hör her: ",
     "Ich kann nicht, weil ", "Du wirst mich hassen, aber ", "Ich kümmere dich um meine eigenen Angelegenheiten und bäm! ", "Ich fühle mich schrecklich, aber ",
     "Bedauerlicherweise kann ich nicht kommen, ", "Das hört sich jetzt an wie eine Ausrede, aber ", "ääähm.. ", "Es bedauert mich dir mitteilen zu müssen",
-    "Es ist mir unmöglich zu erscheinen, denn ", "Meine Fähigkeit teilzunehmen ist verhindert, weil ", "ääh.. ja.. ", ""];
+    "Es ist mir unmöglich zu erscheinen, denn ", "Meine Fähigkeit teilzunehmen ist verhindert, weil ", "ääh.. ja.. ", ""
+    "Entschuldigen sie meine Anwesenheit "];
 
 no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul-Marschkapelle ",
     "The Rock ", "ein trauriger Clown ", "so ein komisches Kind ", "ein professionelles Cricketteam ", "mein Tinderdate ",
@@ -10,7 +11,7 @@ no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul
     "so eine Gruppe Verschwörungsschwurbler ", "Angela Merkel", "Jens Spahn ", "Armin Laschet ", "Herr Voss ", "Fritz Dietmah ",
     "ein kleines Kind auf dem Schulflur ", "eine Gruppe Kommunisten ", "Putin ", "die CIA ", "Frau Krügel",
     "Julius ", "Justus ", "Goethe ", "Schiller ", "Herr Krüger ", "das Finanzamt ", "der Staat ", "Xi Jinping ",
-    "Winnie Pooh "];
+    "Winnie Pooh ", "Frau Waechter ", "Mario ", "Herr Küper "];
 
 no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören mir Klopf-Klopf Witze zu erzählen", "hat einen mentalen Breakdown",
     "hat mir Syphilis gegeben", "hat Limo in meinen Tank geschüttet", "hat mich abgestochen", "hat meine Kiste mit menschlichen Zähnen gefunden",
