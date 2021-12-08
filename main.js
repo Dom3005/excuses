@@ -7,9 +7,9 @@ no1 = ["Sorry, ich kann nicht, ", "Bitte vergieb meine Abwesenheit, aber ", "Das
 no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul-Marschkapelle ", "Jerry Maus ", "Bugs Bunny ",
     "The Rock ", "ein trauriger Clown ", "so ein komisches Kind ", "ein professionelles Cricketteam ", "mein Tinderdate ",
     "Herr Jütten ", "Herr Moll ", "Herr Lawson ", "Gott ", "Herr Zimmermann ", "Bob Ross ", "Mahatma Gandhi ", "Danny Devito",
-    "Obama ", "Nelson Mandela's Freiheitsgeist ", "Dustin ", "eine Gruppe Querdenker ", "die Deutsche Bahn ", "Michael Reeves ",
-    "so eine Gruppe Verschwörungsschwurbler ", "Angela Merkel", "Jens Spahn ", "Armin Laschet ", "Herr Voss ", "Fritz Dietmah ",
-    "ein kleines Kind auf dem Schulflur ", "eine Gruppe Kommunisten ", "Putin ", "die CIA ", "Frau Krügel", "Kater Tom ",
+    "Obama ", "Nelson Mandela's Freiheitsgeist ", "Dustin ", "die Deutsche Bahn ", "Michael Reeves ",
+    "Angela Merkel", "Jens Spahn ", "Armin Laschet ", "Herr Voss ", "Fritz Dietmah ",
+    "ein kleines Kind auf dem Schulflur ", "Putin ", "die CIA ", "Frau Krügel", "Kater Tom ",
     "Julius ", "Justus ", "Goethe ", "Schiller ", "Herr Krüger ", "das Finanzamt ", "der Staat ", "Xi Jinping ", "die Maus ",
     "Winnie Pooh ", "Frau Waechter ", "Mario ", "Herr Küper ", "Olga ", "Kassim ", "Guy Deutscher ", "Barbara Schöneberger",
     "Atilla Hildmann ", "der Wendler ", "Günther Jauch " , "Friedrich Merz", "Herr Deckwirth ", "ein Taliban Kämpfer ",
@@ -17,7 +17,10 @@ no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul
     "7 komische Zwerge ", "der Gruffallo ", "der Sandmann ", "Familie Feuerstein ", "Ernie von der Sesamstraße ", "Bert von der Sesamstraße ",
     "Papa Schlumpf ", "Schlumpfine", "Peter Lustig ", "Mickey Mouse ", "die Gummibärenbande ", "Lucky Luke ", "Dagobert Duck ",
     "Inspektor Gadget ", "Mogli ", "Balu ", "Sailor Moon ", "Pikachu ", "der rote Teletubby ", "Feuerwehrmann Sam ", "Benjamin Blümchen ",
-    "Marko ", "Biene Maja ", "der Mathemann "];
+    "Marko ", "Biene Maja ", "der Mathemann ", "Olaf Scholz ", "Batman ", "Gandalf ", "Frodo ", "Yoda ", "der Terminator ", "Neo ",
+    "Crack Vader ", "Shrek"];
+
+no2plr = ["die Kommunisten ", "Querdenker ", "so ein paar Verschwörungsschwurbler "]
 
 no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören mir Klopf-Klopf Witze zu erzählen", "hat einen mentalen Breakdown",
     "hat mir Syphilis gegeben", "hat Limo in meinen Tank geschüttet", "hat mich abgestochen", "hat meine Kiste mit menschlichen Zähnen gefunden",
@@ -40,6 +43,7 @@ sentences = [];
 let amt = 5;
 
 function generateSentence(){
+    no2 = no2.concat(no2plr)
     sentences = [];
     let table = document.getElementById("sentences")
 
@@ -48,7 +52,8 @@ function generateSentence(){
         for(let ii = 0; ii < 3; ii++){
             temp.push(fields[ii][getRandomInt(fields[ii].length)]);
         }
-
+        if(no2plr.includes(temp[1]))
+            console.log("test");
         sentences.push(temp);
     }
 
