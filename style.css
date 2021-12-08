@@ -23,7 +23,7 @@
 
 .cell{
     height: 7vh;
-    line-height: 7vh;
+    margin: auto;
     width: 100%;
 
     display: block;
