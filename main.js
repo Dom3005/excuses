@@ -31,7 +31,7 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "ist für zahlreiche Kriegsverbrechen im nahen Osten verantwortlich", "ist zum Super-Saiyajin transformiert", "musste noch kurz Wahlergebnisse fälschen",
     "ist zum Islam konvertiert", "hat auf den Bahngleisen meditiert", "hat einen Selbstmordattentat begangen ", "hat mich geblackmailed ", "sieht kein Problem im 3. Reich",
     "leitet Atomraketentests in Nordkorea", "leitet chinesische Arbeitslager", "ist Verfechter der Deutschland GmbH", "hat zwei US-Präsidenten ermordet",
-    "hat Menschenexperimente an mir durchgeführt", "hat mir eine Coronaimpfung am HBF angedreht"];
+    "hat Menschenexperimente an mir durchgeführt", "hat mir eine Coronaimpfung am Hauptbahnhof angedreht"];
 
 classNames = ["no1", "no2", "no3"];
 fields = [no1, no2, no3];
