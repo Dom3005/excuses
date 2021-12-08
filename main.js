@@ -14,13 +14,14 @@ no2 = ["mein Neffe ", "Hitler's Geist ", "der Papst ", "mein/e ex ", "Eine Schul
     "Winnie Pooh ", "Frau Waechter ", "Mario ", "Herr Küper ", "Olga ", "Kassim ", "Guy Deutscher ", "Barbara Schöneberger",
     "Atilla Hildmann ", "der Wendler ", "Günther Jauch " , "Friedrich Merz", "Herr Deckwirth ", "ein Taliban Kämpfer ",
     "das Kikaninchen", "Bob der Baumeister ", "Bernd das Brot ", "Osama Bin Laden ", "der rote Powerranger ", "die US Army ",
-    "7 komische Zwerge ", "der Gruffallo ", "der Sandmann ", "Familie Feuerstein ", "Ernie von der Sesamstraße ", "Bert von der Sesamstraße ",
+    "der Gruffallo ", "der Sandmann ", "Familie Feuerstein ", "Ernie von der Sesamstraße ", "Bert von der Sesamstraße ",
     "Papa Schlumpf ", "Schlumpfine", "Peter Lustig ", "Mickey Mouse ", "die Gummibärenbande ", "Lucky Luke ", "Dagobert Duck ",
     "Inspektor Gadget ", "Mogli ", "Balu ", "Sailor Moon ", "Pikachu ", "der rote Teletubby ", "Feuerwehrmann Sam ", "Benjamin Blümchen ",
     "Marko ", "Biene Maja ", "der Mathemann ", "Olaf Scholz ", "Batman ", "Gandalf ", "Frodo ", "Yoda ", "der Terminator ", "Neo ",
     "Crack Vader ", "Shrek"];
 
-no2plr = ["die Kommunisten ", "Querdenker ", "so ein paar Verschwörungsschwurbler "]
+no2plr = ["die Kommunisten ", "Querdenker ", "so ein paar Verschwörungsschwurbler ", "7 komische Zwerge ", "die Teletubbies"]
+no2 = no2.concat(no2plr)
 
 no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören mir Klopf-Klopf Witze zu erzählen", "hat einen mentalen Breakdown",
     "hat mir Syphilis gegeben", "hat Limo in meinen Tank geschüttet", "hat mich abgestochen", "hat meine Kiste mit menschlichen Zähnen gefunden",
@@ -34,7 +35,10 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "ist für zahlreiche Kriegsverbrechen im nahen Osten verantwortlich", "ist zum Super-Saiyajin transformiert", "musste noch kurz Wahlergebnisse fälschen",
     "ist zum Islam konvertiert", "hat auf den Bahngleisen meditiert", "hat einen Selbstmordattentat begangen ", "hat mich geblackmailed ", "sieht kein Problem im 3. Reich",
     "leitet Atomraketentests in Nordkorea", "leitet chinesische Arbeitslager", "ist Verfechter der Deutschland GmbH", "hat zwei US-Präsidenten ermordet",
-    "hat Menschenexperimente an mir durchgeführt", "hat mir eine Coronaimpfung am Hauptbahnhof angedreht"];
+    "hat Menschenexperimente an mir durchgeführt", "hat mir eine Coronaimpfung am Hauptbahnhof angedreht", "wollte mich vom Kommunismus überzeugen"];
+
+v1 = ["hat", "ist", "musste", "leitet", "wollte", "betreibt", "begeht", "sieht"]
+v2 = ["haben", "sind", "mussten", "leiten", "wollten", "betreiben", "begehen", "sehen"]
 
 classNames = ["no1", "no2", "no3"];
 fields = [no1, no2, no3];
@@ -43,7 +47,6 @@ sentences = [];
 let amt = 5;
 
 function generateSentence(){
-    no2 = no2.concat(no2plr)
     sentences = [];
     let table = document.getElementById("sentences")
 
@@ -52,8 +55,12 @@ function generateSentence(){
         for(let ii = 0; ii < 3; ii++){
             temp.push(fields[ii][getRandomInt(fields[ii].length)]);
         }
-        if(no2plr.includes(temp[1]))
-            console.log("test");
+        if(no2plr.includes(temp[1])){
+            let firstWord = temp[2].split(" ")[0];
+            let toReplace = v1.indexOf(firstWord);
+            if(toReplace > -1)
+                temp[2] = temp[2].replace(firstWord, v2[toReplace]);
+        }
         sentences.push(temp);
     }
 
