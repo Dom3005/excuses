@@ -62,7 +62,6 @@ function generateSentence(){
 
         // make singular stuff plural
         if(no2plr.includes(temp[1])){
-            console.log(temp[1])
             for(let i = 0; i < v1.length; i++){
                 if(temp[2].includes(v1[i]))
                 temp[2] = temp[2].replace(v1[i], v2[i]);
