@@ -1,5 +1,5 @@
 no1 = ["Sorry, ich kann nicht,  ", "Bitte vergieb meine Abwesenheit, ", "Das hört sich sicherlich verrückt an, aber ", "Hör her: ",
-    "Ich kann nicht, weil ", "Du wirst mich hassen, aber ", "Ich kümmere dich um meine eigenen Angelegenheiten und bäm! ", "Ich fühle mich schrecklich, aber ",
+    "Ich kann nicht, weil ", "Du wirst mich hassen, aber ", "Ich kümmere mich um meine eigenen Angelegenheiten und bäm! ", "Ich fühle mich schrecklich, aber ",
     "Bedauerlicherweise kann ich nicht kommen, ", "Das hört sich jetzt an wie eine Ausrede, aber ", "ääähm.. ", "Es bedauert mich dir mitteilen zu müssen",
     "Es ist mir unmöglich zu erscheinen, denn ", "Meine Fähigkeit teilzunehmen ist verhindert, weil ", "ääh.. ja.. ", "",
     "Entschuldigen sie meine Anwesenheit "];
