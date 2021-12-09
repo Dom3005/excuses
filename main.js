@@ -38,7 +38,8 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
    "leitet Atomraketentests in Nordkorea", "leitet chinesische Arbeitslager", "ist Verfechter der Deutschland GmbH", "hat zwei US-Präsidenten ermordet",
    "hat Menschenexperimente an mir durchgeführt", "hat mir eine Coronaimpfung am Hauptbahnhof angedreht", "wollte mich vom Kommunismus überzeugen",
    "verbringt jetzt den Rest seiner/ihrer Zeit hinter Gittern", "hat noch seinen Besitz aus dem Müllcontainer geholt", "versuchte mir einen Mobilfunkvertrag anzudrehen",
-   "hat versehentlich den Killcount der Soviet Union wie einen Witz aussehen lassen", "ist Bundeskanzler geworden", "hat ein Terrorregime eingerichtet"];
+   "hat versehentlich den Killcount der Soviet Union wie einen Witz aussehen lassen", "ist Bundeskanzler geworden", "hat ein Terrorregime eingerichtet",
+   "ist im Treibsand verreckt"];
 
 v1 = ["hat",  "ist", "musste", "leitet", "wollte", "betreibt", "begeht", "sieht", "verbringt", "versuchte", "hat noch seinen", "seiner"]
 v2 = ["haben", "sind", "mussten", "leiten", "wollten", "betreiben", "begehen", "sehen", "verbringen", "versuchten", "haben noch ihren", "ihrer"]
