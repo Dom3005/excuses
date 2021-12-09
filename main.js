@@ -18,9 +18,10 @@ no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Mar
    "Papa Schlumpf", "Schlumpfine", "Peter Lustig", "Mickey Mouse", "die Gummibärenbande", "Lucky Luke", "Dagobert Duck",
    "Inspektor Gadget", "Mogli", "Balu", "Sailor Moon", "Pikachu", "der rote Teletubby", "Feuerwehrmann Sam", "Benjamin Blümchen",
    "Marko", "Biene Maja", "der Mathemann", "Olaf Scholz", "Batman", "Gandalf", "Frodo", "Yoda", "der Terminator", "Neo",
-   "Crack Vader", "Shrek", "Sonic", "die Inder"];
+   "Crack Vader", "Shrek", "Sonic", "Ruben"];
 
-no2plr = ["die Kommunisten", "Querdenker", "so ein paar Verschwörungsschwurbler", "7 komische Zwerge", "die Teletubbies", "die Nazis"]
+no2plr = ["die Kommunisten", "Querdenker", "so ein paar Verschwörungsschwurbler", "7 komische Zwerge", "die Teletubbies", "die Nazis",
+          "die Inder"]
 no2 = no2.concat(no2plr)
 
 no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören mir Klopf-Klopf Witze zu erzählen", "hat einen mentalen Breakdown",
