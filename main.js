@@ -11,7 +11,7 @@ no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Mar
    "Angela Merkel", "Jens Spahn", "Armin Laschet", "Herr Voss", "Fritz Dietmah",
    "ein kleines Kind auf dem Schulflur", "Putin", "die CIA", "Frau Krügel", "Kater Tom",
    "Julius", "Justus", "Goethe", "Schiller", "Herr Krüger", "das Finanzamt", "der Staat", "Xi Jinping", "die Maus",
-   "Winnie Pooh", "Frau Waechter", "Mario", "Herr Küper", "Olga", "Kassim", "Guy Deutscher", "Barbara Schöneberger",
+   "Winnie Pooh", "Frau Waechter", "Mario", "Herr Küper", "Olga", "Kasim", "Guy Deutscher", "Barbara Schöneberger",
    "Atilla Hildmann", "der Wendler", "Günther Jauch" ,"Friedrich Merz", "Herr Deckwirth", "ein Taliban Kämpfer",
    "das Kikaninchen", "Bob der Baumeister", "Bernd das Brot", "Osama Bin Laden", "der rote Powerranger", "die US Army",
    "der Gruffallo", "der Sandmann", "Familie Feuerstein", "Ernie von der Sesamstraße", "Bert von der Sesamstraße",
@@ -38,7 +38,7 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
    "leitet Atomraketentests in Nordkorea", "leitet chinesische Arbeitslager", "ist Verfechter der Deutschland GmbH", "hat zwei US-Präsidenten ermordet",
    "hat Menschenexperimente an mir durchgeführt", "hat mir eine Coronaimpfung am Hauptbahnhof angedreht", "wollte mich vom Kommunismus überzeugen",
    "verbringt jetzt den Rest seiner/ihrer Zeit hinter Gittern", "hat noch seinen Besitz aus dem Müllcontainer geholt", "versuchte mir einen Mobilfunkvertrag anzudrehen",
-   "hat versehentlich den Killcount der Soviet Union wie einen Witz aussehen lassen", "ist Bundeskanzler geworden", "hat ein Terrorregime eingerichtet",
+   "hat versehentlich den Killcount der Soviet Union wie einen Witz aussehen lassen", "ist Bundeskanzler geworden", "musste noch ein Terrorregime einrichten",
    "ist im Treibsand verreckt"];
 
 v1 = ["hat",  "ist", "musste", "leitet", "wollte", "betreibt", "begeht", "sieht", "verbringt", "versuchte", "hat noch seinen", "seiner"]
