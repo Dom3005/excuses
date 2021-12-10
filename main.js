@@ -39,9 +39,9 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
    "hat Menschenexperimente an mir durchgeführt", "hat mir eine Coronaimpfung am Hauptbahnhof angedreht", "wollte mich vom Kommunismus überzeugen",
    "verbringt jetzt den Rest seiner/ihrer Zeit hinter Gittern", "hat noch seinen Besitz aus dem Müllcontainer geholt", "versuchte mir einen Mobilfunkvertrag anzudrehen",
    "hat versehentlich den Killcount der Soviet Union wie einen Witz aussehen lassen", "ist Bundeskanzler geworden", "musste noch ein Terrorregime einrichten",
-   "ist im Treibsand verreckt", "musste noch kurz einen Laden ausrauben", "hat einen Straßenkampf gestartet"];
+   "ist im Treibsand verreckt", "ist als Kanzler von Österreich zurückgetreten", "musste noch kurz einen Laden ausrauben", "hat einen Straßenkampf gestartet"];
 
-v1 = ["hat",  "ist", "musste", "leitet", "wollte", "betreibt", "begeht", "sieht", "verbringt", "versuchte", "hat noch seinen", "seiner"]
+v1 = ["hat",  "ist", "musste", "leitet", "wollte", "betreibt", "begeht", "sieht", "verbringt", "versuchte", "hat noch seinen", "seiner/ihrer"]
 v2 = ["haben", "sind", "mussten", "leiten", "wollten", "betreiben", "begehen", "sehen", "verbringen", "versuchten", "haben noch ihren", "ihrer"]
 
 classNames = ["no1", "no2", "no3"];
