@@ -1,4 +1,4 @@
-no1 = ["Sorry, ich kann nicht,", "Bitte vergieb meine Abwesenheit, aber", "Das hört sich sicherlich verrückt an, aber", "Hör her:",
+no1 = ["Sorry, ich kann nicht,", "Bitte vergieb meine Abwesenheit, aber", "Das hört sich sicherlich verrückt an, aber", "Hör her:", "Das tut mir wirklich fürcherlich leid, aber",
    "Ich kann nicht, weil", "Du wirst mich hassen, aber", "Ich kümmere mich um meine eigenen Angelegenheiten und bäm!", "Ich fühle mich schrecklich, aber",
    "Bedauerlicherweise kann ich nicht kommen, weil", "Das hört sich jetzt an wie eine Ausrede, aber", "ääähm..", "Ich bedaure ihnen mitteilen zu müssen:",
    "Es ist mir unmöglich zu erscheinen, denn", "Meine Fähigkeit teilzunehmen ist verhindert, weil", "ääh.. ja..", "", "Entschuldigen sie die Verspätung, aber",
@@ -7,42 +7,47 @@ no1 = ["Sorry, ich kann nicht,", "Bitte vergieb meine Abwesenheit, aber", "Das h
 no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Marschkapelle", "Jerry Maus", "Bugs Bunny",
    "The Rock", "ein trauriger Clown", "so ein komisches Kind", "ein professionelles Cricketteam", "mein Tinderdate",
    "Herr Jütten", "Herr Moll", "Herr Lawson", "Gott", "Herr Zimmermann", "Bob Ross", "Mahatma Gandhi", "Danny Devito",
-   "Obama", "Nelson Mandela's Freiheitsgeist", "Dustin", "die Deutsche Bahn", "Michael Reeves",
-   "Angela Merkel", "Jens Spahn", "Armin Laschet", "Herr Voss", "Fritz Dietmah",
-   "ein kleines Kind auf dem Schulflur", "Putin", "die CIA", "Frau Krügel", "Kater Tom",
+   "Obama", "Nelson Mandela's Freiheitsgeist", "Dustin", "die Deutsche Bahn", "Michael Reeves", "PewDiePie", "Kim Jong Un",
+   "Angela Merkel", "Jens Spahn", "Armin Laschet", "Herr Voss", "Fritz Dietmah", "Thomas", "Shaggy bei 1% Kraft",
+   "ein kleines Kind auf dem Schulflur", "Putin", "die CIA", "Frau Krügel", "Kater Tom", "Bismark", "Phillip Amthor",
    "Julius", "Justus", "Goethe", "Schiller", "Herr Krüger", "das Finanzamt", "der Staat", "Xi Jinping", "die Maus",
    "Winnie Pooh", "Frau Waechter", "Mario", "Herr Küper", "Olga", "Kasim", "Guy Deutscher", "Barbara Schöneberger",
-   "Atilla Hildmann", "der Wendler", "Günther Jauch" ,"Friedrich Merz", "Herr Deckwirth", "ein Taliban Kämpfer",
+   "Atilla Hildmann", "der Wendler", "Günther Jauch" ,"Friedrich Merz", "Herr Deckwirth", "ein Taliban Kämpfer", "Vater Staat",
    "das Kikaninchen", "Bob der Baumeister", "Bernd das Brot", "Osama Bin Laden", "der rote Powerranger", "die US Army",
    "der Gruffallo", "der Sandmann", "Familie Feuerstein", "Ernie von der Sesamstraße", "Bert von der Sesamstraße",
    "Papa Schlumpf", "Schlumpfine", "Peter Lustig", "Mickey Mouse", "die Gummibärenbande", "Lucky Luke", "Dagobert Duck",
    "Inspektor Gadget", "Mogli", "Balu", "Sailor Moon", "Pikachu", "der rote Teletubby", "Feuerwehrmann Sam", "Benjamin Blümchen",
    "Marko", "Biene Maja", "der Mathemann", "Olaf Scholz", "Batman", "Gandalf", "Frodo", "Yoda", "der Terminator", "Neo",
-   "Crack Vader", "Shrek", "Sonic", "Ruben", "Peppa Wutz"];
+   "Crack Vader", "Shrek", "Sonic", "Ruben", "Peppa Wutz", "ein indisches Callcenter", "die SPD", "die FDP", "die CDU"];
 
 no2plr = ["die Kommunisten", "Querdenker", "so ein paar Verschwörungsschwurbler", "7 komische Zwerge", "die Teletubbies", "die Nazis",
-          "die Inder"]
+          "die Inder", "die Chinesen", "die Grünen"]
 no2 = no2.concat(no2plr)
 
 no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören mir Klopf-Klopf Witze zu erzählen", "hat einen mentalen Breakdown",
-   "hat mir Syphilis gegeben", "hat Limo in meinen Tank geschüttet", "hat mich abgestochen", "hat meine Kiste mit menschlichen Zähnen gefunden",
-   "hat mein Fahrrad gestohlen", "hat meine Nudes auf Insta hochgeladen", "hat die Binomische Formel von mir verlangt", "hat mein Haus abgebrannt",
-   "hat mir Creditcard-Scams angedreht", "hat mich getasered", "hat mir eine Vorlesen über Quantenphysik gehalten", "hat Eier auf mich geworfen", 
-   "hat mich zum Islam konvertiert, habibi", "wollte mich von Verschwörungstheorien überzeugen", "hat meine lebensgroßen Pappaufsteller von Herr Zimmermann gefunden",
-   "hat sich eingeschissen", "hat spontan einen Genozid begangen", "hat den dritten Weltkrieg gestartet", "hat mich mit Corona angesteckt", "hat mich abgezogen", "",
-   "hat mich gescammt", "hat mich mit einem Raketenwerfer abgeschossen", "hat einen Terroranschlag verübt", "hat eine Gedichtsanalyse von mir verlangt",
-   "wollte die UdSSR neustarten", "hat mich gewaterboarded", "hat in meinen Tank geschissen", "hat vor meine Tür geschissen", "hat mein Pfand geklaut",
-   "betreibt internationalen Drogenhandel", "hat ein kurzes Nicken verlangt", "begeht Kriegsverbrechen im Kosovo", "hat dafür gesorgt, dass der Papst Al Quaeda beigetreten i|st",
-   "ist für zahlreiche Kriegsverbrechen im nahen Osten verantwortlich", "ist zum Super-Saiyajin transformiert", "musste noch kurz Wahlergebnisse fälschen",
-   "ist zum Islam konvertiert", "hat auf den Bahngleisen meditiert", "hat einen Selbstmordattentat begangen", "hat mich geblackmailed", "sieht kein Problem im 3. Reich",
-   "leitet Atomraketentests in Nordkorea", "leitet chinesische Arbeitslager", "ist Verfechter der Deutschland GmbH", "hat zwei US-Präsidenten ermordet",
-   "hat Menschenexperimente an mir durchgeführt", "hat mir eine Coronaimpfung am Hauptbahnhof angedreht", "wollte mich vom Kommunismus überzeugen",
-   "verbringt jetzt den Rest seiner/ihrer Zeit hinter Gittern", "hat noch seinen Besitz aus dem Müllcontainer geholt", "versuchte mir einen Mobilfunkvertrag anzudrehen",
-   "hat versehentlich den Killcount der Soviet Union wie einen Witz aussehen lassen", "ist Bundeskanzler geworden", "musste noch ein Terrorregime einrichten",
-   "ist im Treibsand verreckt", "ist als Kanzler von Österreich zurückgetreten", "musste noch kurz einen Laden ausrauben", "hat einen Straßenkampf gestartet"];
+    "hat mir Syphilis gegeben", "hat Limo in meinen Tank geschüttet", "hat mich abgestochen", "hat meine Kiste mit menschlichen Zähnen gefunden",
+    "hat mein Fahrrad gestohlen", "hat meine Nudes auf Insta hochgeladen", "hat die Binomische Formel von mir verlangt", "hat mein Haus abgebrannt",
+    "hat mir Creditcard-Scams angedreht", "hat mich getasered", "hat mir eine Vorlesen über Quantenphysik gehalten", "hat Eier auf mich geworfen", 
+    "hat mich zum Islam konvertiert, habibi", "wollte mich von Verschwörungstheorien überzeugen", "hat meine lebensgroßen Pappaufsteller von Herr Zimmermann gefunden",
+    "hat sich eingeschissen", "hat spontan einen Genozid begangen", "hat den dritten Weltkrieg gestartet", "hat mich mit Corona angesteckt", "hat mich abgezogen", "",
+    "hat mich gescammt", "hat mich mit einem Raketenwerfer abgeschossen", "hat einen Terroranschlag verübt", "hat eine Gedichtsanalyse von mir verlangt",
+    "wollte die UdSSR neustarten", "hat mich gewaterboarded", "hat in meinen Tank geschissen", "hat vor meine Tür geschissen", "hat mein Pfand geklaut",
+    "betreibt internationalen Drogenhandel", "hat ein kurzes Nicken verlangt", "begeht Kriegsverbrechen im Kosovo", "hat dafür gesorgt, dass der Papst Al Quaeda beigetreten i|st",
+    "ist für zahlreiche Kriegsverbrechen im nahen Osten verantwortlich", "ist zum Super-Saiyajin transformiert", "musste noch kurz Wahlergebnisse fälschen",
+    "ist zum Islam konvertiert", "hat auf den Bahngleisen meditiert", "hat einen Selbstmordattentat begangen", "hat mich geblackmailed", "sieht kein Problem im 3. Reich",
+    "leitet Atomraketentests in Nordkorea", "leitet chinesische Arbeitslager", "ist Verfechter der Deutschland GmbH", "hat zwei US-Präsidenten ermordet",
+    "hat Menschenexperimente an mir durchgeführt", "hat mir eine Coronaimpfung am Hauptbahnhof angedreht", "wollte mich vom Kommunismus überzeugen",
+    "verbringt jetzt den Rest seiner/ihrer Zeit hinter Gittern", "hat noch seinen/ihren Besitz aus dem Müllcontainer geholt", "versuchte mir einen Mobilfunkvertrag anzudrehen",
+    "hat versehentlich den Killcount der Soviet Union wie einen Witz aussehen lassen", "ist Bundeskanzler geworden", "musste noch ein Terrorregime einrichten",
+    "ist im Treibsand verreckt", "ist als Kanzler von Österreich zurückgetreten", "musste noch kurz einen Laden ausrauben", "hat einen Straßenkampf gestartet",
+    "wurde abgezogen", "wurde abgestochen", "wurde zum dritten Weltkrieg gedrafted", "hat den Arabern Öl abgezogen", "hat einen negativen Socialcredit-Score erreicht",
+    "hat Nazi-Deutschland neu aufgestellt", "hat sich den Taliban angeschlossen", "ist für 9/11 verantwortlich", "hat Leute geselbstmordet", "wurde gerickrolled",
+    "hat Polen annektiert", "hat eine Wirtschaftskrise einberufen", "hat Corona abgeschafft", "hat das Finanzamt abgeschafft", "hat Kapitalverbrechen begangen",
+    "ist ein gesuchter Schwerverbrecher in mehr als 71 Ländern", "hat Hatecrimes begangen", "ist 200km/h zu schnell in einer 30er-Zone gefahren",
+    "hat einen Molotov auf mich geworfen", "hat mich nicht vorbei gelassen"];
 
-v1 = ["hat",  "ist", "musste", "leitet", "wollte", "betreibt", "begeht", "sieht", "verbringt", "versuchte", "hat noch seinen", "seiner/ihrer"]
-v2 = ["haben", "sind", "mussten", "leiten", "wollten", "betreiben", "begehen", "sehen", "verbringen", "versuchten", "haben noch ihren", "ihrer"]
+v1 = ["hat",  "ist", "musste", "leitet", "wollte", "betreibt", "begeht", "sieht", "verbringt", "versuchte", "hat noch seinen", "seiner/ihrer", "seinen/ihren", "wurde", "kann", "ist ein gesuchter"]
+v2 = ["haben", "sind", "mussten", "leiten", "wollten", "betreiben", "begehen", "sehen", "verbringen", "versuchten", "haben noch ihren", "ihrer", "ihren", "wurden", "können", "sind gesuchte"]
 
 classNames = ["no1", "no2", "no3"];
 fields = [no1, no2, no3];
