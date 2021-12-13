@@ -2,7 +2,8 @@ no1 = ["Sorry, ich kann nicht,", "Bitte vergieb meine Abwesenheit, aber", "Das h
    "Ich kann nicht, weil", "Du wirst mich hassen, aber", "Ich kümmere mich um meine eigenen Angelegenheiten und bäm!", "Ich fühle mich schrecklich, aber",
    "Bedauerlicherweise kann ich nicht kommen, weil", "Das hört sich jetzt an wie eine Ausrede, aber", "ääähm..", "Ich bedaure ihnen mitteilen zu müssen:",
    "Es ist mir unmöglich zu erscheinen, denn", "Meine Fähigkeit teilzunehmen ist verhindert, weil", "ääh.. ja..", "", "Entschuldigen sie die Verspätung, aber",
-   "Entschuldigen sie meine Anwesenheit, allerdings", "Ich kann da ja nichts für, doch", "Da können sie zwar nichts für, aber", "Ich war zwar nicht da, aber "];
+   "Entschuldigen sie meine Anwesenheit, doch", "Ich kann da ja nichts für, doch", "Da können sie zwar nichts für, aber", "Ich war zwar nicht da, aber",
+   "Ich bin nichtahnend die Straße entlang gelaufen und dann ist es passiert!"];
 
 no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Marschkapelle", "Jerry Maus", "Bugs Bunny",
    "The Rock", "ein trauriger Clown", "so ein komisches Kind", "ein professionelles Cricketteam", "mein Tinderdate",
@@ -44,7 +45,7 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "hat Nazi-Deutschland neu aufgestellt", "hat sich den Taliban angeschlossen", "ist für 9/11 verantwortlich", "hat Leute geselbstmordet", "wurde gerickrolled",
     "hat Polen annektiert", "hat eine Wirtschaftskrise einberufen", "hat Corona abgeschafft", "hat das Finanzamt abgeschafft", "hat Kapitalverbrechen begangen",
     "ist ein gesuchter Schwerverbrecher in mehr als 71 Ländern", "hat Hatecrimes begangen", "ist 200km/h zu schnell in einer 30er-Zone gefahren",
-    "hat einen Molotov auf mich geworfen", "hat mich nicht vorbei gelassen"];
+    "hat einen Molotov auf mich geworfen", "hat mich nicht vorbei gelassen", "hat Top 3 auf der FBI most-wanted list erreicht", "];
 
 v1 = ["hat",  "ist", "musste", "leitet", "wollte", "betreibt", "begeht", "sieht", "verbringt", "versuchte", "hat noch seinen", "seiner/ihrer", "seinen/ihren", "wurde", "kann", "ist ein gesuchter"]
 v2 = ["haben", "sind", "mussten", "leiten", "wollten", "betreiben", "begehen", "sehen", "verbringen", "versuchten", "haben noch ihren", "ihrer", "ihren", "wurden", "können", "sind gesuchte"]
