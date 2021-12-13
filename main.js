@@ -44,8 +44,8 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "wurde abgezogen", "wurde abgestochen", "wurde zum dritten Weltkrieg gedrafted", "hat den Arabern Öl abgezogen", "hat einen negativen Socialcredit-Score erreicht",
     "hat Nazi-Deutschland neu aufgestellt", "hat sich den Taliban angeschlossen", "ist für 9/11 verantwortlich", "hat Leute geselbstmordet", "wurde gerickrolled",
     "hat Polen annektiert", "hat eine Wirtschaftskrise einberufen", "hat Corona abgeschafft", "hat das Finanzamt abgeschafft", "hat Kapitalverbrechen begangen",
-    "ist ein gesuchter Schwerverbrecher in mehr als 71 Ländern", "hat Hatecrimes begangen", "ist 200km/h zu schnell in einer 30er-Zone gefahren",
-    "hat einen Molotov auf mich geworfen", "hat mich nicht vorbei gelassen", "hat Top 3 auf der FBI most-wanted list erreicht", "];
+    "ist ein gesuchter Schwerverbrecher in mehr als 71 Ländern", "hat Hatecrimes begangen", "ist 200km/h zu schnell in einer 30er-Zone gefahren", "hat mir CLASSIFIED Akten der USA vorgelegt",
+    "hat einen Molotov auf mich geworfen", "hat mich nicht vorbei gelassen", "hat Top 3 auf der FBI most-wanted list erreicht", "ist für den Kollaps der UdSSR verantwortlich"];
 
 v1 = ["hat",  "ist", "musste", "leitet", "wollte", "betreibt", "begeht", "sieht", "verbringt", "versuchte", "hat noch seinen", "seiner/ihrer", "seinen/ihren", "wurde", "kann", "ist ein gesuchter"]
 v2 = ["haben", "sind", "mussten", "leiten", "wollten", "betreiben", "begehen", "sehen", "verbringen", "versuchten", "haben noch ihren", "ihrer", "ihren", "wurden", "können", "sind gesuchte"]
