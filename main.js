@@ -6,20 +6,21 @@ no1 = ["Sorry, ich kann nicht,", "Bitte vergieb meine Abwesenheit, aber", "Das h
    "Ich bin nichtahnend die Straße entlang gelaufen und dann ist es passiert!"];
 
 no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Marschkapelle", "Jerry Maus", "Bugs Bunny",
-   "The Rock", "ein trauriger Clown", "so ein komisches Kind", "ein professionelles Cricketteam", "mein Tinderdate",
-   "Herr Jütten", "Herr Moll", "Herr Lawson", "Gott", "Herr Zimmermann", "Bob Ross", "Mahatma Gandhi", "Danny Devito",
-   "Obama", "Nelson Mandela's Freiheitsgeist", "Dustin", "die Deutsche Bahn", "Michael Reeves", "PewDiePie", "Kim Jong Un",
-   "Angela Merkel", "Jens Spahn", "Armin Laschet", "Herr Voss", "Fritz Dietmah", "Thomas", "Shaggy bei 1% Kraft",
-   "ein kleines Kind auf dem Schulflur", "Putin", "die CIA", "Frau Krügel", "Kater Tom", "Bismark", "Phillip Amthor",
-   "Julius", "Justus", "Goethe", "Schiller", "Herr Krüger", "das Finanzamt", "der Staat", "Xi Jinping", "die Maus",
-   "Winnie Pooh", "Frau Waechter", "Mario", "Herr Küper", "Olga", "Kasim", "Guy Deutscher", "Barbara Schöneberger",
-   "Atilla Hildmann", "der Wendler", "Günther Jauch" ,"Friedrich Merz", "Herr Deckwirth", "ein Taliban Kämpfer", "Vater Staat",
-   "das Kikaninchen", "Bob der Baumeister", "Bernd das Brot", "Osama Bin Laden", "der rote Powerranger", "die US Army",
-   "der Gruffallo", "der Sandmann", "Familie Feuerstein", "Ernie von der Sesamstraße", "Bert von der Sesamstraße",
-   "Papa Schlumpf", "Schlumpfine", "Peter Lustig", "Mickey Mouse", "die Gummibärenbande", "Lucky Luke", "Dagobert Duck",
-   "Inspektor Gadget", "Mogli", "Balu", "Sailor Moon", "Pikachu", "der rote Teletubby", "Feuerwehrmann Sam", "Benjamin Blümchen",
-   "Marko", "Biene Maja", "der Mathemann", "Olaf Scholz", "Batman", "Gandalf", "Frodo", "Yoda", "der Terminator", "Neo",
-   "Crack Vader", "Shrek", "Sonic", "Ruben", "Peppa Wutz", "ein indisches Callcenter", "die SPD", "die FDP", "die CDU"];
+    "The Rock", "ein trauriger Clown", "so ein komisches Kind", "ein professionelles Cricketteam", "mein Tinderdate",
+    "Herr Jütten", "Herr Moll", "Herr Lawson", "Gott", "Herr Zimmermann", "Bob Ross", "Mahatma Gandhi", "Danny Devito",
+    "Obama", "Nelson Mandela's Freiheitsgeist", "Dustin", "die Deutsche Bahn", "Michael Reeves", "PewDiePie", "Kim Jong Un",
+    "Angela Merkel", "Jens Spahn", "Armin Laschet", "Herr Voss", "Fritz Dietmah", "Thomas", "Shaggy bei 1% Kraft",
+    "ein kleines Kind auf dem Schulflur", "Putin", "die CIA", "Frau Krügel", "Kater Tom", "Bismark", "Phillip Amthor",
+    "Julius", "Justus", "Goethe", "Schiller", "Herr Krüger", "das Finanzamt", "der Staat", "Xi Jinping", "die Maus",
+    "Winnie Pooh", "Frau Waechter", "Mario", "Herr Küper", "Olga", "Kasim", "Guy Deutscher", "Barbara Schöneberger",
+    "Atilla Hildmann", "der Wendler", "Günther Jauch" ,"Friedrich Merz", "Herr Deckwirth", "ein Taliban Kämpfer", "Vater Staat",
+    "das Kikaninchen", "Bob der Baumeister", "Bernd das Brot", "Osama Bin Laden", "der rote Powerranger", "die US Army",
+    "der Gruffallo", "der Sandmann", "Familie Feuerstein", "Ernie von der Sesamstraße", "Bert von der Sesamstraße",
+    "Papa Schlumpf", "Schlumpfine", "Peter Lustig", "Mickey Mouse", "die Gummibärenbande", "Lucky Luke", "Dagobert Duck",
+    "Inspektor Gadget", "Mogli", "Balu", "Sailor Moon", "Pikachu", "der rote Teletubby", "Feuerwehrmann Sam", "Benjamin Blümchen",
+    "Marko", "Biene Maja", "der Mathemann", "Olaf Scholz", "Batman", "Gandalf", "Frodo", "Yoda", "der Terminator", "Neo",
+    "Crack Vader", "Shrek", "Sonic", "Ruben", "Peppa Wutz", "ein indisches Callcenter", "die SPD", "die FDP", "die CDU",
+    "Volodymyr Selenskyy", "Olaf"];
 
 no2plr = ["die Kommunisten", "Querdenker", "so ein paar Verschwörungsschwurbler", "7 komische Zwerge", "die Teletubbies", "die Nazis",
           "die Inder", "die Chinesen", "die Grünen"]
@@ -45,7 +46,17 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "hat Nazi-Deutschland neu aufgestellt", "hat sich den Taliban angeschlossen", "ist für 9/11 verantwortlich", "hat Leute geselbstmordet", "wurde gerickrolled",
     "hat Polen annektiert", "hat eine Wirtschaftskrise einberufen", "hat Corona abgeschafft", "hat das Finanzamt abgeschafft", "hat Kapitalverbrechen begangen",
     "ist ein gesuchter Schwerverbrecher in mehr als 71 Ländern", "hat Hatecrimes begangen", "ist 200km/h zu schnell in einer 30er-Zone gefahren", "hat mir CLASSIFIED Akten der USA vorgelegt",
-    "hat einen Molotov auf mich geworfen", "hat mich nicht vorbei gelassen", "hat Top 3 auf der FBI most-wanted list erreicht", "ist für den Kollaps der UdSSR verantwortlich"];
+    "hat einen Molotov auf mich geworfen", "hat mich nicht vorbei gelassen", "hat Top 3 auf der FBI most-wanted list erreicht", "ist für den Kollaps der UdSSR verantwortlich",
+    "hat {state} völkerrechtswidrig als einen souveränen Staat anerkannt", "hat {state} {country} zugesprochen", "hat {country} annektiert", "ist in Polen eingefallen",
+    "hat {country} seinem Reich angeschlossen"];
+
+states = ["Bayern", "NRW", "Berlin", "Hamburg", "Sachsen", "Florida", "Texas", "Taiwan", "Ostdeutschland", "Kentucky", "den Islamischen Staat", "IKEA", "die gesamte Erde",
+        "Kaufland"]
+
+countries = ["Afghanistan", "Argentinien", "Brasilien", "China", "Dänemark", "Deutschland", "Frankreich", "Indien", "Italian", "Japan", "Kanada", "Kosovo", "Mexico",
+            "Namibia", "Nordkorea", "Russland", "Pakistan", "die Schweiz", "das Großdeutsche Reich", "Spanien", "Saudi-Arabien", "Uganda", "die Ukraine", "Usbekistan",
+            "die Vereinigten Staaten", "den Vatikan", "Venezuela", "Great Britain", "Putin-Land", "Belarus", "Kimmies kunterbuntes Wunderland", "Kaufland"]
+
 
 v1 = ["hat",  "ist", "musste", "leitet", "wollte", "betreibt", "begeht", "sieht", "verbringt", "versuchte", "hat noch seinen", "seiner/ihrer", "seinen/ihren", "wurde", "kann", "ist ein gesuchter"]
 v2 = ["haben", "sind", "mussten", "leiten", "wollten", "betreiben", "begehen", "sehen", "verbringen", "versuchten", "haben noch ihren", "ihrer", "ihren", "wurden", "können", "sind gesuchte"]
@@ -67,6 +78,12 @@ function generateSentence(){
         for(let ii = 0; ii < 3; ii++){
             temp.push(fields[ii][getRandomInt(fields[ii].length)]);
         }
+
+        // select countries
+        temp[2] = temp[2].replace("{country}", countries[getRandomInt(countries.length)])
+
+        // select states
+        temp[2] = temp[2].replace("{state}", states[getRandomInt(states.length)])
 
         // make singular stuff plural
         if(no2plr.includes(temp[1])){
