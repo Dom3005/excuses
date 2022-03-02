@@ -20,7 +20,7 @@ no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Mar
     "Inspektor Gadget", "Mogli", "Balu", "Sailor Moon", "Pikachu", "der rote Teletubby", "Feuerwehrmann Sam", "Benjamin Blümchen",
     "Marko", "Biene Maja", "der Mathemann", "Olaf Scholz", "Batman", "Gandalf", "Frodo", "Yoda", "der Terminator", "Neo",
     "Crack Vader", "Shrek", "Sonic", "Ruben", "Peppa Wutz", "ein indisches Callcenter", "die SPD", "die FDP", "die CDU",
-    "Volodymyr Selenskyy", "Olaf"];
+    "Volodymyr Selenskyy", "Olaf", "Pablo Escobar", "Joe Biden", "ein Drogenkartell", "Boris Johnson"];
 
 no2plr = ["die Kommunisten", "Querdenker", "so ein paar Verschwörungsschwurbler", "7 komische Zwerge", "die Teletubbies", "die Nazis",
           "die Inder", "die Chinesen", "die Grünen"]
@@ -48,14 +48,16 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "ist ein gesuchter Schwerverbrecher in mehr als 71 Ländern", "hat Hatecrimes begangen", "ist 200km/h zu schnell in einer 30er-Zone gefahren", "hat mir CLASSIFIED Akten der USA vorgelegt",
     "hat einen Molotov auf mich geworfen", "hat mich nicht vorbei gelassen", "hat Top 3 auf der FBI most-wanted list erreicht", "ist für den Kollaps der UdSSR verantwortlich",
     "hat {state} völkerrechtswidrig als einen souveränen Staat anerkannt", "hat {state} {country} zugesprochen", "hat {country} annektiert", "ist in Polen eingefallen",
-    "hat {country} seinem Reich angeschlossen"];
+    "hat {country} seinem Reich angeschlossen", "hat sich {country} angeschlossen", "hat einen Putsch in {country} gestartet", "hat den Nationalen Notstand ausgerufen",
+    "hat {country} den Krieg erklärt", "hat den eigenständigen Staat von {country} gegründet"];
 
 states = ["Bayern", "NRW", "Berlin", "Hamburg", "Sachsen", "Florida", "Texas", "Taiwan", "Ostdeutschland", "Kentucky", "den Islamischen Staat", "IKEA", "die gesamte Erde",
-        "Kaufland"]
+        "Kaufland", "Mordor", "Atlantis", "Ninjago"]
 
 countries = ["Afghanistan", "Argentinien", "Brasilien", "China", "Dänemark", "Deutschland", "Frankreich", "Indien", "Italian", "Japan", "Kanada", "Kosovo", "Mexico",
             "Namibia", "Nordkorea", "Russland", "Pakistan", "die Schweiz", "das Großdeutsche Reich", "Spanien", "Saudi-Arabien", "Uganda", "die Ukraine", "Usbekistan",
-            "die Vereinigten Staaten", "den Vatikan", "Venezuela", "Great Britain", "Putin-Land", "Belarus", "Kimmies kunterbuntes Wunderland", "Kaufland"]
+            "die Vereinigten Staaten", "den Vatikan", "Venezuela", "Great Britain", "Putin-Land", "Belarus", "Kimmies kunterbuntes Wunderland", "Kaufland",
+            "die erste Galaktische Ordnung"]
 
 
 v1 = ["hat",  "ist", "musste", "leitet", "wollte", "betreibt", "begeht", "sieht", "verbringt", "versuchte", "hat noch seinen", "seiner/ihrer", "seinen/ihren", "wurde", "kann", "ist ein gesuchter"]
