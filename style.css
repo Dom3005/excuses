@@ -37,10 +37,10 @@ body{
 } */
 
 .cell{
-    height: 7vh;
+    height: 50px;
     width: 100%;
-
-    font-size: x-large;
+    
+    font-size: 15dp;
 
     display: flex;
     justify-content: center;
