@@ -24,7 +24,7 @@ no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Mar
     "Allah", "Tobias", "Ich"];
 
 no2plr = ["die Kommunisten", "Querdenker", "so ein paar Verschwörungsschwurbler", "7 komische Zwerge", "die Teletubbies", "die Nazis",
-          "die Inder", "die Chinesen", "die Grünen"]
+          "die Inder", "die Chinesen", "die Grünen", "russische Oligarchen"]
 no2 = no2.concat(no2plr)
 
 no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören mir Klopf-Klopf Witze zu erzählen", "hat einen mentalen Breakdown",
