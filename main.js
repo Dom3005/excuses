@@ -20,7 +20,7 @@ no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Mar
     "Inspektor Gadget", "Mogli", "Balu", "Sailor Moon", "Pikachu", "der rote Teletubby", "Feuerwehrmann Sam", "Benjamin Blümchen",
     "Marko", "Biene Maja", "der Mathemann", "Olaf Scholz", "Batman", "Gandalf", "Frodo", "Yoda", "der Terminator", "Neo",
     "Crack Vader", "Shrek", "Sonic", "Ruben", "Peppa Wutz", "ein indisches Callcenter", "die SPD", "die FDP", "die CDU",
-    "Volodymyr Selenskyy", "Olaf", "Pablo Escobar", "Joe Biden", "ein Drogenkartell", "Boris Johnson"];
+    "Volodymyr Selenskyy", "Olaf", "Pablo Escobar", "Joe Biden", "ein Drogenkartell", "Boris Johnson", "Frau Stute"];
 
 no2plr = ["die Kommunisten", "Querdenker", "so ein paar Verschwörungsschwurbler", "7 komische Zwerge", "die Teletubbies", "die Nazis",
           "die Inder", "die Chinesen", "die Grünen"]
