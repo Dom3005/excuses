@@ -3,7 +3,7 @@ no1 = ["Sorry, ich kann nicht,", "Bitte vergieb meine Abwesenheit, aber", "Das h
    "Bedauerlicherweise kann ich nicht kommen, weil", "Das hört sich jetzt an wie eine Ausrede, aber", "ääähm..", "Ich bedaure ihnen mitteilen zu müssen:",
    "Es ist mir unmöglich zu erscheinen, denn", "Meine Fähigkeit teilzunehmen ist verhindert, weil", "ääh.. ja..", "", "Entschuldigen sie die Verspätung, aber",
    "Entschuldigen sie meine Anwesenheit, doch", "Ich kann da ja nichts für, doch", "Da können sie zwar nichts für, aber", "Ich war zwar nicht da, aber",
-   "Ich bin nichtahnend die Straße entlang gelaufen und dann ist es passiert!"];
+   "Ich bin nichtahnend die Straße entlang gelaufen und dann ist es passiert!", "Kurze Anekdote:"];
 
 no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Marschkapelle", "Jerry Maus", "Bugs Bunny",
     "The Rock", "ein trauriger Clown", "so ein komisches Kind", "ein professionelles Cricketteam", "mein Tinderdate",
