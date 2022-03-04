@@ -66,6 +66,7 @@ countries = ["Afghanistan", "Argentinien", "Brasilien", "China", "Dänemark", "D
 v1 = ["hat",  "ist", "musste", "leitet", "wollte", "betreibt", "begeht", "sieht", "verbringt", "versuchte", "hat noch seinen", "seiner/ihrer", "seinen/ihren", "wurde", "kann", "ist ein gesuchter"]
 v2 = ["haben", "sind", "mussten", "leiten", "wollten", "betreiben", "begehen", "sehen", "verbringen", "versuchten", "haben noch ihren", "ihrer", "ihren", "wurden", "können", "sind gesuchte"]
 
+no2 = no2.concat(countries).concat(states)
 classNames = ["no1", "no2", "no3"];
 fields = [no1, no2, no3];
 sentences = [];
