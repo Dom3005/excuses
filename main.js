@@ -55,7 +55,7 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "hat Beats gebaut"];
 
 states = ["Bayern", "NRW", "Berlin", "Hamburg", "Sachsen", "Florida", "Texas", "Taiwan", "Ostdeutschland", "Kentucky", "den Islamischen Staat", "IKEA", "die gesamte Erde",
-        "Kaufland", "Mordor", "Atlantis", "Ninjago"]
+        "Kaufland", "Mordor", "Atlantis", "Ninjago", "die Krim"]
 
 countries = ["Afghanistan", "Argentinien", "Brasilien", "China", "Dänemark", "Deutschland", "Frankreich", "Indien", "Italien", "Japan", "Kanada", "Kosovo", "Mexico",
             "Namibia", "Nordkorea", "Russland", "Pakistan", "die Schweiz", "das Großdeutsche Reich", "Spanien", "Saudi-Arabien", "Uganda", "die Ukraine", "Usbekistan",
