@@ -54,7 +54,7 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
 states = ["Bayern", "NRW", "Berlin", "Hamburg", "Sachsen", "Florida", "Texas", "Taiwan", "Ostdeutschland", "Kentucky", "den Islamischen Staat", "IKEA", "die gesamte Erde",
         "Kaufland", "Mordor", "Atlantis", "Ninjago"]
 
-countries = ["Afghanistan", "Argentinien", "Brasilien", "China", "Dänemark", "Deutschland", "Frankreich", "Indien", "Italian", "Japan", "Kanada", "Kosovo", "Mexico",
+countries = ["Afghanistan", "Argentinien", "Brasilien", "China", "Dänemark", "Deutschland", "Frankreich", "Indien", "Italien", "Japan", "Kanada", "Kosovo", "Mexico",
             "Namibia", "Nordkorea", "Russland", "Pakistan", "die Schweiz", "das Großdeutsche Reich", "Spanien", "Saudi-Arabien", "Uganda", "die Ukraine", "Usbekistan",
             "die Vereinigten Staaten", "den Vatikan", "Venezuela", "Great Britain", "Putin-Land", "Belarus", "Kimmies kunterbuntes Wunderland", "Kaufland",
             "die erste Galaktische Ordnung"]
