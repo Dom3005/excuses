@@ -51,7 +51,7 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "hat {state} völkerrechtswidrig als einen souveränen Staat anerkannt", "hat {state} {country} zugesprochen", "hat {country} annektiert", "ist in Polen eingefallen",
     "hat {country} seinem Reich angeschlossen", "hat sich {country} angeschlossen", "hat einen Putsch in {country} gestartet", "hat den Nationalen Notstand ausgerufen",
     "hat {country} den Krieg erklärt", "hat den eigenständigen Staat von {country} gegründet", "ist eine Massenvernichtungswaffe",
-    "hat mich unfreiwillig zu Berufs- & Studienberatung gezwungen"];
+    "hat mich unfreiwillig zu Berufs- & Studienberatung gezwungen", "konnte mir kein Öl anektieren", "konnte mir keine Ferndiagnose aufstellen"];
 
 states = ["Bayern", "NRW", "Berlin", "Hamburg", "Sachsen", "Florida", "Texas", "Taiwan", "Ostdeutschland", "Kentucky", "den Islamischen Staat", "IKEA", "die gesamte Erde",
         "Kaufland", "Mordor", "Atlantis", "Ninjago"]
