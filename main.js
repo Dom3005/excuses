@@ -21,7 +21,7 @@ no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Mar
     "Marko", "Biene Maja", "der Mathemann", "Olaf Scholz", "Batman", "Gandalf", "Frodo", "Yoda", "der Terminator", "Neo",
     "Crack Vader", "Shrek", "Sonic", "Ruben", "Peppa Wutz", "ein indisches Callcenter", "die SPD", "die FDP", "die CDU",
     "Volodymyr Selenskyy", "Olaf", "Pablo Escobar", "Joe Biden", "ein Drogenkartell", "Boris Johnson", "Frau Stute",
-    "Allah"];
+    "Allah", "Tobias"];
 
 no2plr = ["die Kommunisten", "Querdenker", "so ein paar Verschwörungsschwurbler", "7 komische Zwerge", "die Teletubbies", "die Nazis",
           "die Inder", "die Chinesen", "die Grünen"]
@@ -51,7 +51,8 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "hat {state} völkerrechtswidrig als einen souveränen Staat anerkannt", "hat {state} {country} zugesprochen", "hat {country} annektiert", "ist in Polen eingefallen",
     "hat {country} seinem Reich angeschlossen", "hat sich {country} angeschlossen", "hat einen Putsch in {country} gestartet", "hat den Nationalen Notstand ausgerufen",
     "hat {country} den Krieg erklärt", "hat den eigenständigen Staat von {country} gegründet", "ist eine Massenvernichtungswaffe", "ist nun Bürgermeister von Phuket (Fuck-it)",
-    "hat mich unfreiwillig zu Berufs- & Studienberatung gezwungen", "konnte mir kein Öl anektieren", "konnte mir keine Ferndiagnose aufstellen"];
+    "hat mich unfreiwillig zu Berufs- & Studienberatung gezwungen", "konnte mir kein Öl anektieren", "konnte mir keine Ferndiagnose aufstellen",
+    "hat Beats gebaut"];
 
 states = ["Bayern", "NRW", "Berlin", "Hamburg", "Sachsen", "Florida", "Texas", "Taiwan", "Ostdeutschland", "Kentucky", "den Islamischen Staat", "IKEA", "die gesamte Erde",
         "Kaufland", "Mordor", "Atlantis", "Ninjago"]
