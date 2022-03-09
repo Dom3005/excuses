@@ -52,7 +52,7 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "hat {country} seinem Reich angeschlossen", "hat sich {country} angeschlossen", "hat einen Putsch in {country} gestartet", "hat den Nationalen Notstand ausgerufen",
     "hat {country} den Krieg erklärt", "hat den eigenständigen Staat von {country} gegründet", "ist eine Massenvernichtungswaffe", "ist nun Bürgermeister von Phuket (Fuck-it)",
     "hat mich unfreiwillig zu Berufs- & Studienberatung gezwungen", "konnte mir kein Öl anektieren", "konnte mir keine Ferndiagnose aufstellen",
-    "hat Beats gebaut", "hat bei Herr Jütten eine Facharbeit geschrieben", "wurde von Herr Jütten wegen der Facharbeit aufgehalten"];
+    "hat Beats gebaut", "hat bei Herr Jütten eine Facharbeit geschrieben", "wurde von Herr Jütten wegen der Facharbeit aufgehalten", "hat einen Blankoscheck"];
 
 states = ["Bayern", "NRW", "Berlin", "Hamburg", "Sachsen", "Florida", "Texas", "Taiwan", "Ostdeutschland", "Kentucky", "den Islamischen Staat", "IKEA", "die gesamte Erde",
         "Kaufland", "Mordor", "Atlantis", "Ninjago", "die Krim", "Phuket", "die fiktive Stadt Bielefeld"]
