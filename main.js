@@ -21,7 +21,7 @@ no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Mar
     "Marko", "Biene Maja", "der Mathemann", "Olaf Scholz", "Batman", "Gandalf", "Frodo", "Yoda", "der Terminator", "Neo",
     "Crack Vader", "Shrek", "Sonic", "Ruben", "Peppa Wutz", "ein indisches Callcenter", "die SPD", "die FDP", "die CDU",
     "Volodymyr Selenskyy", "Olaf", "Pablo Escobar", "Joe Biden", "ein Drogenkartell", "Boris Johnson", "Frau Stute",
-    "Allah", "Tobias", "Ich", "Winston Churchill"];
+    "Allah", "Tobias", "Ich", "Winston Churchill", "Charlotte", "Jonas", "Schlomo", "Ben", "Dominik"];
 
 no2plr = ["die Kommunisten", "Querdenker", "so ein paar Verschwörungsschwurbler", "7 komische Zwerge", "die Teletubbies", "die Nazis",
           "die Inder", "die Chinesen", "die Grünen", "russische Oligarchen", "die Atlanten", "die Asylanten"]
