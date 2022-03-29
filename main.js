@@ -22,7 +22,7 @@ no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Mar
     "Crack Vader", "Shrek", "Sonic", "Ruben", "Peppa Wutz", "ein indisches Callcenter", "die SPD", "die FDP", "die CDU",
     "Volodymyr Selenskyy", "Olaf", "Pablo Escobar", "Joe Biden", "ein Drogenkartell", "Boris Johnson", "Frau Stute",
     "Allah", "Tobias", "Ich", "Winston Churchill", "Charlotte", "Jonas", "Schlomo", "Ben", "Dominik", "RTL", "Fox News",
-    "Irgendein Bosniake", "Sinan", "Der Russe"];
+    "Irgendein Bosniake", "Sinan", "Der Russe", "Dragan"];
 
 no2plr = ["die Kommunisten", "Querdenker", "so ein paar Verschwörungsschwurbler", "7 komische Zwerge", "die Teletubbies", "die Nazis",
           "die Inder", "die Chinesen", "die Grünen", "russische Oligarchen", "die Atlanten", "die Asylanten"]
