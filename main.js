@@ -22,7 +22,7 @@ no2 = ["mein Neffe", "Hitler's Geist", "der Papst", "mein/e Ex", "eine Schul-Mar
     "Crack Vader", "Shrek", "Sonic", "Ruben", "Peppa Wutz", "ein indisches Callcenter", "die SPD", "die FDP", "die CDU",
     "Volodymyr Selenskyy", "Olaf", "Pablo Escobar", "Joe Biden", "ein Drogenkartell", "Boris Johnson", "Frau Stute",
     "Allah", "Tobias", "Ich", "Winston Churchill", "Charlotte", "Jonas", "Schlomo", "Ben", "Dominik", "RTL", "Fox News",
-    "Irgendein Bosniake", "Sinan", "Der Russe", "Dragan"];
+    "Irgendein Bosniake", "Sinan", "Der Russe", "Dragan", "der Fisch", "Elvis"];
 
 no2plr = ["die Kommunisten", "Querdenker", "so ein paar Verschwörungsschwurbler", "7 komische Zwerge", "die Teletubbies", "die Nazis",
           "die Inder", "die Chinesen", "die Grünen", "russische Oligarchen", "die Atlanten", "die Asylanten"]
@@ -54,7 +54,8 @@ no3 = ["hat ins Bett geschissen", "ist vor mir verreckt", "will nicht aufhören 
     "hat {country} den Krieg erklärt", "hat den eigenständigen Staat von {country} gegründet", "ist eine Massenvernichtungswaffe", "ist nun Bürgermeister von Phuket (Fuck-it)",
     "hat mich unfreiwillig zu Berufs- & Studienberatung gezwungen", "konnte mir kein Öl anektieren", "konnte mir keine Ferndiagnose aufstellen",
     "hat Beats gebaut", "hat bei Herr Jütten eine Facharbeit geschrieben", "wurde von Herr Jütten wegen der Facharbeit aufgehalten", "hat einen Blankoscheck",
-    "hat Punkte generiert", "hat 38h lang einen Minesweepermarathon gehalten", "wurde von Google Chrome gemobbt", "finanziert russische Staatspropaganda"];
+    "hat Punkte generiert", "hat 38h lang einen Minesweepermarathon gehalten", "wurde von Google Chrome gemobbt", "finanziert russische Staatspropaganda",
+    "wollte in die andere Richtung fließen"];
 
 states = ["Bayern", "NRW", "Berlin", "Hamburg", "Sachsen", "Florida", "Texas", "Taiwan", "Ostdeutschland", "Kentucky", "den Islamischen Staat", "IKEA", "die gesamte Erde",
         "Kaufland", "Mordor", "Atlantis", "Ninjago", "die Krim", "Phuket", "die fiktive Stadt Bielefeld"]
